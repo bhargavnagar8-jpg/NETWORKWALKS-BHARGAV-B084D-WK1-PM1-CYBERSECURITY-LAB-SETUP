@@ -22,7 +22,7 @@ This lab is for educational purposes only. All activities are performed in a con
 ## Screenshots
 
 ### 7Zip Installation
-![7Zip Installation](1-7Zip-install.png)
+![7Zip Installation](1-7zip-install.png)
 
 ### VirtualBox Installation
 ![VirtualBox installed](2-Virtualbox-install.png)
@@ -40,4 +40,4 @@ This lab is for educational purposes only. All activities are performed in a con
 ![Wired Connection Command](6-wired-connection-command.png)
 
 ### Snapshot
-![Snapshot](7-snapshot-list.png)
+![Snapshot](7-snapshot.png)
