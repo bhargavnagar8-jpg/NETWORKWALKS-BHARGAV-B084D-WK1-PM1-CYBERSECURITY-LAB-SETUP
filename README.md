@@ -18,3 +18,26 @@ VirtualBox, Kali Linux
 
 ## Disclaimer
 This lab is for educational purposes only. All activities are performed in a controlled, isolated environment.
+
+## Screenshots
+
+### 7Zip Installation
+![7Zip Installation](1-7Zip-install.png)
+
+### VirtualBox Installation
+![VirtualBox installed](2-Virtualbox-install.png)
+
+### NAT Network Configuration
+![NAT network Configuration](3-NAT-configuration.png)
+
+### Enable Network Adapter
+![Enable Network Adapter](4-Enable-Network-Adapter.png)
+
+### Kali Linux Network Setup
+![Kali network config](5-Kali-network-setting.png)
+
+### Wired Connection Command
+![Wired Connection Command](6-wired-connection-command.png)
+
+### Snapshot
+![Snapshot](7-snapshot-list.png)
